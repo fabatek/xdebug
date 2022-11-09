@@ -8,9 +8,8 @@
 ## Installation
 
 1. mkdir xdebug && git clone git@bitbucket.org:faba-tme/xdebug.git xdebug
-2. cd xdebug && cp www/.env www/.env.local
-3. docker-compose up -d
-8. [Click here as default](http://localhost:8083/)
+2. ./start.sh
+3. [Click here as default](http://localhost:8083/)
 
 ---
 :rocket: :rocket: :rocket: :rocket: :rocket: :rocket: :rocket: :rocket: :rocket: :rocket: :rocket: :rocket: :rocket: :rocket: :rocket: :rocket: :rocket: :rocket: :rocket: :rocket: :rocket: :rocket: :rocket: :rocket:

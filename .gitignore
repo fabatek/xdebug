@@ -1,0 +1,6 @@
+.env
+www/xdebug.log
+storage/#ib_16384_0.dblwr storage/#ib_16384_1.dblwr storage/#innodb_redo storage/#innodb_temp storage/auto.cnf storage/binlog.000001 storage/binlog.000002 storage/binlog.000003 storage/binlog.index storage/ca-key.pem storage/ca.pem storage/client-cert.pem storage/client-key.pem storage/ib_buffer_pool storage/ibdata1 storage/ibtmp1 storage/mysql storage/mysql.ibd storage/mysql.sock storage/performance_schema storage/private_key.pem storage/public_key.pem storage/server-cert.pem storage/server-key.pem storage/sys storage/undo_001 storage/undo_002 storage/xdebug
+storage/
+www/log
+apache2/error.log

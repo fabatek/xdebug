@@ -1,3 +1,0 @@
-Cannot load Xdebug - it was already loaded
-[Mon Oct 31 02:37:30.201970 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/8.1.12 configured -- resuming normal operations
-[Mon Oct 31 02:37:30.202888 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
